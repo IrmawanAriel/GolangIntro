@@ -1,5 +1,6 @@
 package main
 
 func main() {
-	genPass("awassd", " ")
+	durationCalculate(10)
+	// genPass("awassd", " ")
 }
