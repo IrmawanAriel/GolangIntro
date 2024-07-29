@@ -19,5 +19,9 @@ func durationCalculate(n int) string {
 			}
 		}
 	}
+	fmt.Println("Tidak ada film yang cocok")
+
 	return ""
+	//pointer
+	//error handle
 }

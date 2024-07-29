@@ -1,6 +1,7 @@
 package main
 
 func main() {
-	durationCalculate(10)
-	// genPass("awassd", " ")
+	durationCalculate(20)
+	// genPass("awass", "low")
+	// segitiga(10)
 }
